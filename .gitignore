@@ -1,0 +1,4 @@
+# Runtime data: browser profiles hold cookies/sessions; credentials and logs stay local.
+data/
+node_modules/
+*.tmp

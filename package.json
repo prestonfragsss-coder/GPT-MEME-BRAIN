@@ -1,0 +1,9 @@
+{
+  "name": "hermes",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hermes orchestration: project & browser profile manager",
+  "bin": { "hermes": "hermes/cli.js" },
+  "scripts": { "test": "node --test hermes/test/*.test.js" },
+  "engines": { "node": ">=20" }
+}
